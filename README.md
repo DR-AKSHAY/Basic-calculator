@@ -93,15 +93,6 @@ No installation or build step is needed.
 
 ---
 
-## 📸 Preview
-
-*Add a screenshot or GIF of your calculator here:*
-
-```
-![Calculator Preview](screenshot.png)
-```
-
----
 
 ## 🤝 Contributing
 
@@ -118,4 +109,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 Made with ❤️ by **avinash tripathi**
-GitHub: [@DR-AKSHAY](https://github.com/your-username)
+GitHub: [@DR-AKSHAY]([https://github.com/DR-AKSHAY]
