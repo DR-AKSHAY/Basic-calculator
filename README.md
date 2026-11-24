@@ -48,7 +48,7 @@ No installation or build step is needed.
 
 1. **Download or clone** the project:
    ```bash
-   git clone https://github.com/your-username/basic-calculator.git
+   git clone https://github.com/DR-AKSHAY/Basic-calculator.git 
    ```
 2. **Open the folder:**
    ```bash
